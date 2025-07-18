@@ -8,6 +8,8 @@ Computer Engineering Student
 * ✉️  You can contact me at [purithanapon@gmail.com](mailto:purithanapon@gmail.com)
 * 🧠  I'm learning NextJS
 
+[certificate](images/Cybersecurity_Essentials_certificate.pdf)
+
 ### Skills
 
 
