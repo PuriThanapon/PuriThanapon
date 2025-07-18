@@ -7,8 +7,7 @@ Computer Engineering Student
 * 🌍  I'm based in Nan Thailand
 * ✉️  You can contact me at [purithanapon@gmail.com](mailto:purithanapon@gmail.com)
 * 🧠  I'm learning NextJS
-
-[certificate](images/Cybersecurity_Essentials_certificate.pdf)
+* [Cybersecurity_Essentials_certificate](images/Cybersecurity_Essentials_certificate.pdf)
 
 ### Skills
 
